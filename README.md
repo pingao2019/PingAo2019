@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**pingao2019/PingAo2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Here is what I am working on: 👋
 
 - 🔭 I’m currently working on Data Science. 
 - 🌱 I’m currently learning in Lambda School.
