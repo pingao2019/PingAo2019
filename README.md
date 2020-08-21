@@ -13,13 +13,13 @@ Bridges to Prosperity is a nonprofit that helps east African country Rwanda to b
 Cross-collaborate  with web developers and other data scientists. Clean and mine data.  Create prediction model and make API.  Link: https://github.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds
 
 2.Med Cabinet(May 2020 )
-Med Cabinet is a machine learning model for new cannabis consumers trying to get off pharmaceuticals, who want to use cannabis as a means to battle medical conditions and ailments.Help patients find the right strains. Cross-collaborate  with web developers and other data scientists to let the  user query  with strain data along a machine learning model to guide user recommendations. Link: https://github.com/bw-med-cabinet/DS-4
+Cross-collaborate  with web developers and other data scientists to let the  user query  with strain data along a machine learning model to guide user recommendations. Link: https://github.com/bw-med-cabinet/DS-4
 
 3.Using python to code K-Means Clustering Algorithm( May 2020 )
 Try to further explore K-Means Clustering Algorithm with mathematics behind and also by using python to code K-Means Clustering and comparing with the edition of Sklearn Library to grasp the most common clustering skill. Blog: https://medium.com/@papython2019/k-means-cluster-6958a9739d75
 
 4. Prediction of Salary Dased on BLS Data (Mar 2020 )
-To predict wages by using machine learning to fit regression models on the dataset and evaluate the accuracy of the models by obtaining Mae and/or R². In order to get better prediction and void leakages, we would do data wrapping and feature engineering by multiple methods. Blog: https://medium.com/@papython2019/predicting-salary-with-bls-2019-dataset-84bf947d35e3. Portfolio: https://github.com/pingao2019/Salary-Prediction-Portfolio
+To predict wages by using machine learning to fit regression models on the dataset and evaluate the accuracy of the models by obtaining Mae and/or R².  Blog: https://medium.com/@papython2019/predicting-salary-with-bls-2019-dataset-84bf947d35e3. Portfolio: https://github.com/pingao2019/Salary-Prediction-Portfolio
 
 5. To make a model to diagnose diabetes(Feb 2020 )
-To identify trends and relationships between different pieces of data. To use visualization and by build a correlation coefficients matrix to make diabetes diagnosis prediction and draw appropriate conclusions. Blog: ttps://medium.com/@papython2019/some-facts-about-diabetes-eb0b160277e9
+To identify trends and relationships and  use visualization and by build a correlation coefficients matrix to make diabetes diagnosis prediction and draw appropriate conclusions. Blog: ttps://medium.com/@papython2019/some-facts-about-diabetes-eb0b160277e9
