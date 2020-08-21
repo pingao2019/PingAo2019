@@ -22,4 +22,5 @@ Try to further explore K-Means Clustering Algorithm with mathematics behind and 
 To predict wages by using machine learning to fit regression models on the dataset and evaluate the accuracy of the models by obtaining Mae and/or R².  Blog: https://medium.com/@papython2019/predicting-salary-with-bls-2019-dataset-84bf947d35e3. Portfolio: https://github.com/pingao2019/Salary-Prediction-Portfolio
 
 5. To make a model to diagnose diabetes
-To identify trends and relationships and  use visualization and by build a correlation coefficients matrix to make diabetes diagnosis prediction and draw appropriate conclusions. Blog: ttps://medium.com/@papython2019/some-facts-about-diabetes-eb0b160277e9
+To identify trends and relationships and  use visualization and by build a correlation coefficients matrix to make diabetes diagnosis prediction and draw appropriate conclusions. Blog: https://medium.com/@papython2019/some-facts-about-diabetes-eb0b160277e9
+ 
