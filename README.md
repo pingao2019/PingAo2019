@@ -9,7 +9,8 @@
 - ⚡ My projects: 
 
 1. Bridges to Prosperity  
-Bridges to Prosperity is a project that helps to build footbridges in Rwanda isolated area. Cross-collaborate  with web developers and other data scientists.Collect data. Clean and mine data. Create prediction model and make API. Learned how to design a project and how to make the wireframe. Learned engineering architecture and engineering critique on architecture and code bases. Practiced using Github and setting goals and processing the project by Trello board. Learned  not only  technical skills, also learned  communication skills and how to work as a team with people having different backgrounds and personalities.Link: https://github.com/Lambda-School-Labs/Labs25-ds 
+Bridges to Prosperity is a project that helps to build footbridges in Rwanda isolated area. Cross-collaborate  with web developers and other data scientists. Collect data. Clean and mine data. Create prediction model and make API. Learned how to design a project and how to make the wireframe. Learned engineering architecture and engineering critique on architecture and code bases. Practiced using Github and setting goals and processing the project by Trello board. Learned  not only  technical skills, also learned  communication skills and how to work as a team with people having different backgrounds and personalities.Link: https://github.com/Lambda-School-Labs/Labs25-ds 
+
 2. Med Cabinet
 Cross-collaborate  with web developers and other data scientists to let the  user query  with strain data along a machine learning model to guide user recommendations. Link: https://github.com/bw-med-cabinet/DS-4
 
