@@ -1,7 +1,6 @@
 ### Here is me: 👋
 
 - 🔭 I’m currently working on Data Science. 
-- 🌱 I’m currently learning in Lambda School.
 - 👯 I’m looking to collaborate on Data Science,
 - 🤔 My skills: Statistics, Predictive Modeling, Data Engineering, Machine Learning, Computer Science.   
 - 📫 How to reach me:  https://medium.com/@papython2019
